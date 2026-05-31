@@ -1,16 +1,21 @@
-## Hi there 👋
+# Dhruv Suthar
 
-<!--
-**DhruvSuthar001/DhruvSuthar001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Who am I?**
 
-Here are some ideas to get you started:
+  I am a Computer Engineering student at LDRP Institute of Technology & Research with a strong interest in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 **What am I currently working on?**
+
+  I am currently learning Python in greater depth and exploring the fundamentals of Artificial Intelligence.
+
+ 💻 **What technologies do I use?**
+ 
+  C++, Python, Java, C, JavaScript, HTML, Git, and GitHub.
+
+ 🎯 **What interests me?**
+ 
+  Software development, problem-solving, Artificial Intelligence, and building practical projects that help me grow as a developer.
+
+ 📫 **How can you reach me?**
+ 
+  You can connect with me through LinkedIn, which is linked on my profile.
